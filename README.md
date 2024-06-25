@@ -23,7 +23,7 @@ To run the project, follow these steps:
 ## Running the Project
 1. **Open the Project**: Open the project in IntelliJ IDEA.
 
-2. **Run the Application**: Execute the `DVDCollectionApp`, `DVDCollectionApp1`, or `DVDCollectionApp2` classes to see the different stages of the tutorial.
+2. **Run the Application**: Execute the `DVDCollectionApp`, `DVDCollectionApp1`, or `DVDCollectionApp2` classes to see the different stages.
 
 ## Code Overview
 
