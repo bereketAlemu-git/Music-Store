@@ -6,11 +6,11 @@ Name: Bereket Alemu
 This focuses on creating a GUI for a DVD collection using JavaFX. The objectives include learning how to create windows with various components, using Panes in multiple GUIs, and writing simple event handlers.
 
 ## Objectives
-- Create a window with various components.
-- Use a Pane in more than one GUI.
-- Utilize Buttons, TextFields, and ListViews.
+- Created a window with various components.
+- Used a Pane in more than one GUI.
+- Utilized Buttons, TextFields, and ListViews.
 - Set location, dimensions, color, and font of components.
-- Write simple event handlers.
+- Wrote simple event handlers.
 
 ## Getting Started
 To run the project, follow these steps:
